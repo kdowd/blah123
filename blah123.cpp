@@ -15,7 +15,7 @@ void test(vector<pair<int, int> > &xxx) {
 
 int main()
 {
-	// xxxxxx
+	// PPPPPPPPPPPPPPPPPPP
  
 	std::vector<pair<int, int> > pairs = { {4, 2}, {1, 4}, {5, 6}, make_pair(10, 20) };
 
